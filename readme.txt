@@ -9,9 +9,9 @@ Cucumber
 Lembrar de:
 Colocar as variaveis de ambiente (Anexo de 2 png)
 Instalar o Maven - https://maven.apache.org/
-Instalar o appium
-	-Ver Capabilities
-	-Ter Android Studio para rodar o simulador
+Instalar o appium (Variaveis de ambiente do appium tambem)
+	-Ver Capabilities - http://appium.io/docs/en/writing-running-appium/caps/#appium-desired-capabilities
+	-Ter Android Studio para rodar o simulador (O android Studio tambem precisa de variavel de ambiente)
 
 Exemplo de automacao no git:
 https://github.com/vietch2612/whatsapp-appium-automation-java
